@@ -12,3 +12,5 @@ I've done that:
 	Basic problem. 15 minutes. 
 6) http://pl.spoj.com/problems/PROGC03/
     Problem covers just implementing issues 
+7) http://pl.spoj.com/problems/KNUTH_PI/
+    Tricky problem to train KMP. Compiler version does matter.

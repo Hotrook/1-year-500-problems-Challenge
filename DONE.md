@@ -8,3 +8,5 @@ I've done that:
 	Solutions is quite easy, but why does it work?
 4) https://www.codechef.com/APRIL16/problems/BIPIN3
 	Solutions is quite easy. Nice for fast modular powering.
+5) http://pl.spoj.com/problems/KC014/
+	Basic problem. 15 minutes. 

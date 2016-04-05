@@ -10,3 +10,5 @@ I've done that:
 	Solutions is quite easy. Nice for fast modular powering.
 5) http://pl.spoj.com/problems/KC014/
 	Basic problem. 15 minutes. 
+6) http://pl.spoj.com/problems/PROGC03/
+    Problem covers just implementing issues 

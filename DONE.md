@@ -18,3 +18,5 @@ I've done that:
     
 9) http://pl.spoj.com/problems/PTPODZB/
     Easy permutation exercise
+10) http://pl.spoj.com/problems/KRO/
+	tricky one, + for discovering fibonacci 

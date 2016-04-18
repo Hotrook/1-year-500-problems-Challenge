@@ -13,4 +13,6 @@ I've done that:
 6) http://pl.spoj.com/problems/PROGC03/
     Problem covers just implementing issues 
 7) http://pl.spoj.com/problems/KNUTH_PI/
-    Tricky problem to train KMP. Compiler version does matter.
+    Tricky problem to train KMP. Compiler version does matter. 
+8) http://pl.spoj.com/problems/PTPODZB/
+    Easy permutation exercise

@@ -32,12 +32,10 @@ int main(){
 		printf("0 ");
 		int t = vec[ 1 ];
 		FOR(j,2,size+1){
-				while( t > 0  and s[t] != s[j-1]){
-					t = vec[t]; 
-				}
-				if( s[t] == s[j-1]){
-					 t++;
-				}
+				while( t > 0  and s[t] != s[j-1]) t = vec[t];
+				
+				if( s[t] == s[j-1])t++;
+				
 				vec[ j ] = t;
 				printf("%d ",t);
 		}

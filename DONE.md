@@ -14,5 +14,7 @@ I've done that:
     Problem covers just implementing issues 
 7) http://pl.spoj.com/problems/KNUTH_PI/
     Tricky problem to train KMP. Compiler version does matter. 
-8) http://pl.spoj.com/problems/PTPODZB/
+8) http://pl.spoj.com/problems/LIDER/
+    
+9) http://pl.spoj.com/problems/PTPODZB/
     Easy permutation exercise

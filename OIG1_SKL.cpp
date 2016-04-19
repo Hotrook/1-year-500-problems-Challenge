@@ -19,7 +19,6 @@ int main(){
 	int result = 0;
 	vector <int> que;
 	map <int32_t,int32_t> towary;
-
 	ios_base::sync_with_stdio();
 
 	scanf("%d\n",&t);
@@ -39,20 +38,6 @@ int main(){
 	for( vector<int>::iterator it = que.begin(); it != que.end() ; it++){
 		printf("%d %d\n", *it ,towary[(*it)]);
 	}
-
-	long long int sum = 0 ;
-	for( auto & i : towary ){
-		sum += sizeof( i );
-	}
-
-	for( auto & i : que ){
-		sum += sizeof( i );
-	}
-
-	sum += sizeof( towary );
-	sum += sizeof( que );
-
-	cout << sum  << endl;
 
 	return 0 ;
 }

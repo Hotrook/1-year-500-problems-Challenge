@@ -21,4 +21,5 @@ I've done that:
 10) http://pl.spoj.com/problems/KRO/
 	tricky one, + for discovering fibonacci 
 11) http://pl.spoj.com/problems/OIG1_SKL/
+    Two solutions. One with map and vector which 100 % on spoj. It's nlogn. However it uses to much memory on main.edu.pl so solutions implemented for main is based on modified quicksort. Optimal solutions on main exceeded time limits on spoj ;) What is important, implement quicksort without sorting duplicate elements multiple times.
     

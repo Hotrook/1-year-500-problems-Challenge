@@ -20,3 +20,5 @@ I've done that:
     Easy permutation exercise
 10) http://pl.spoj.com/problems/KRO/
 	tricky one, + for discovering fibonacci 
+11) http://pl.spoj.com/problems/OIG1_SKL/
+    

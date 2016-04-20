@@ -28,3 +28,5 @@ I've done that:
     Recurence similiar to permutations
 14) http://pl.spoj.com/problems/ROZ/
     Easy dynamic issue.
+15) http://pl.spoj.com/problems/KC023/
+    DFS.

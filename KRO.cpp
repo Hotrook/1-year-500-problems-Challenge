@@ -18,7 +18,6 @@ int main(){
 	int n;
 	int k; 
 	int result;
-	int sum = 0;
 	int c;
 
 	int a = 1;

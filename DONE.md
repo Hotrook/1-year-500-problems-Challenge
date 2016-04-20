@@ -26,3 +26,5 @@ I've done that:
     Very tricky one. Taught me how to eficiently use my variables. 
 13) http://pl.spoj.com/problems/PTSUMY/
     Recurence similiar to permutations
+14) http://pl.spoj.com/problems/ROZ/
+    Easy dynamic issue.

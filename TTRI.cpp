@@ -16,7 +16,6 @@ ulint NWD(ulint a, ulint b){
 	}
 	else{
 		if( a < b )swap(a,b);
-
 		return NWD( b, a%b );
 	}
 }
@@ -29,21 +28,13 @@ ulint NWW(ulint a, ulint b){
 
 int main(){
 	
-	ulint a;
-	ulint b;
-	ulint c;
-	ulint d; 
-	ulint e;
-	ulint f;
-	ulint t;
+	ulint a,b,c,d,e,f,t;
 	ulint a1,a2,a3,x;
 	char w;
 
 	scanf("%lld",&t);
 	FOR(i,0,t){
-		scanf("%lld%c%lld",&a,&w,&b );
-		scanf("%lld%c%lld",&c,&w,&d );
-		scanf("%lld%c%lld",&e,&w,&f );
+		scanf("%lld%/%lld %lld/%lld %lld/%lld",&a,&b,&c,&d,&e,&f);
 		x=NWD(a,b);
 		a /= x;
 		b /= x;
@@ -63,9 +54,7 @@ int main(){
 			swap( a1,a3 );
 		if( a2 > a3)
 			swap( a2, a3 );
-		double b1 = a1;
-		double b2 = a2;
-		double b3 = a3;
+
 		if( a1 > a3 - a2 )
 			printf("TAK\n");
 		else
@@ -73,7 +62,6 @@ int main(){
 
 
 	}
-
 
 
 	return 0 ;

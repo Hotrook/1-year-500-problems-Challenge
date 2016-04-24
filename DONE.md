@@ -32,3 +32,5 @@ I've done that:
     DFS.
 16) http://pl.spoj.com/problems/NOE/
     Interesting usage of XOR. 
+17) http://pl.spoj.com/problems/EULER_PH/
+    Power of math. Multiplicative functions.

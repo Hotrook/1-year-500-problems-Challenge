@@ -30,3 +30,5 @@ I've done that:
     Easy dynamic issue.
 15) http://pl.spoj.com/problems/KC023/
     DFS.
+16) http://pl.spoj.com/problems/NOE/
+    Interesting usage of XOR. 

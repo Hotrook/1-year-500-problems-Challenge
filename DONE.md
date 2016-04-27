@@ -34,3 +34,5 @@ I've done that:
     Interesting usage of XOR. 
 17) http://pl.spoj.com/problems/EULER_PH/
     Power of math. Multiplicative functions.
+18) http://main.edu.pl/pl/archive/oi/2/drz
+    Quite pleasant tree problem.

@@ -36,3 +36,5 @@ I've done that:
     Power of math. Multiplicative functions.
 18) http://main.edu.pl/pl/archive/oi/2/drz
     Quite pleasant tree problem.
+19) http://pl.spoj.com/problems/HEAP/
+    Implementing heap.

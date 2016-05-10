@@ -38,3 +38,5 @@ I've done that:
     Quite pleasant tree problem.
 19) http://pl.spoj.com/problems/HEAP/
     Implementing heap.
+20) http://pl.spoj.com/problems/PLEXSORT/
+    QuickSort

@@ -21,7 +21,7 @@ int main(){
 	int k, a, b;
 	int *tab;
 	char p;
-
+Q
 
 	ios_base::sync_with_stdio(false);
 	

@@ -40,3 +40,5 @@ I've done that:
     Implementing heap.
 20) http://pl.spoj.com/problems/PLEXSORT/
     QuickSort
+21) http://pl.spoj.com/problems/PTWPZ091/
+    Easier than I thought.

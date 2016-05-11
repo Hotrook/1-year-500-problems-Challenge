@@ -42,3 +42,7 @@ I've done that:
     QuickSort
 21) http://pl.spoj.com/problems/PTWPZ091/
     Easier than I thought.
+22) http://pl.spoj.com/problems/KC024/
+    Recursion.
+23) http://pl.spoj.com/problems/JBART/
+    MST - Kruskal algorithm

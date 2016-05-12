@@ -1,9 +1,7 @@
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>
-#include <cmath>
 #include <vector>
-#include <string>
 #include <algorithm>
 
 #define FOR(i,a,b) for(long long i = a ; i < b ; ++i )
@@ -30,29 +28,23 @@ bool malejacoXcomp( input a , input b ){
 
 bool forbidden[ size ];
 
-vector <int> test;
 int main(){
 	
 	long long t;
 	long long n;
+	input in; 
 
 	vector<int> help(4);
-
-
 	vector <input> malejacoX(size);
 	vector <input> malejacoY(size);
-	ios_base::sync_with_stdio(false);
 	
 	scanf("%lld",&t);
-	//cin >> t;
 	FOR( i , 0 , t){
 		scanf("%lld",&n);
 
-		// cin >> n;
 
 		FOR( j, 0 , n ){
 			forbidden[ j+1 ] = false;
-			input in; 
 			scanf("%d %d",&in.x,&in.y);
 
 			in.numer = j+1;
@@ -71,16 +63,13 @@ int main(){
 		vector< input >::iterator myk = malejacoY.begin() + n-1;
 
 		FOR( j , 0 , n/3 ){
-			while ( forbidden[(help[ 0 ] = (*mxp).numer)] ){
+			while ( forbidden[(help[ 0 ] = (*mxp).numer)] )
 				mxp++ ;
-			}
-			while ( forbidden[(help[ 1 ] = (*myp).numer)] ){
+			while ( forbidden[(help[ 1 ] = (*myp).numer)] )
 				myp++;
-			}
 			while ( forbidden[(help[ 2 ] = (*mxk).numer)] ) 
 				mxk--;
-			while ( forbidden[(help[ 3 ] = (*myk).numer)] )
-				myk--;
+			while ( forbidden[(help[ 3 ] = (*myk).numer)] )	myk--;
 
 			forbidden[ help[ 0 ] ] = true;
 			forbidden[ help[ 1 ] ] = true;
@@ -90,7 +79,6 @@ int main(){
 			sort( help.begin(), help.end() );
 
 			printf( "%d ",help[0]);
-			// cout << help[ 0 ] << " ";
 			FOR( k , 1 , 4){
 				if( help[ k ] != help[ k -1 ]){
 					printf( "%d ",help[k]);

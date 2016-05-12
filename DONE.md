@@ -50,3 +50,5 @@ I've done that:
     NWD, NWW varations
 25) http://pl.spoj.com/problems/TRNGLFLD/
     Sorting...
+26) http://pl.spoj.com/problems/SPIN_PL/
+    Kruskal.

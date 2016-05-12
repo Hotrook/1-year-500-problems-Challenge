@@ -46,3 +46,5 @@ I've done that:
     Recursion.
 23) http://pl.spoj.com/problems/JBART/
     MST - Kruskal algorithm
+24) http://pl.spoj.com/problems/PTWPZ085/
+    NWD, NWW varations

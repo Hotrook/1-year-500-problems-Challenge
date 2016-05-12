@@ -48,3 +48,5 @@ I've done that:
     MST - Kruskal algorithm
 24) http://pl.spoj.com/problems/PTWPZ085/
     NWD, NWW varations
+25) http://pl.spoj.com/problems/TRNGLFLD/
+    Sorting...

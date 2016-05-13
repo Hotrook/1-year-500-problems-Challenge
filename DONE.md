@@ -52,3 +52,5 @@ I've done that:
     Sorting...
 26) http://pl.spoj.com/problems/SPIN_PL/
     Kruskal.
+27) http://pl.spoj.com/problems/SPEEDM/
+    Dynamic programming. Backpack problem.

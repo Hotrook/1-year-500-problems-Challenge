@@ -21,40 +21,38 @@ int main(){
 	int m;
 	int a;
 	int suma ;
+	int minx;
 	int szukana ;  
 
 	ios_base::sync_with_stdio( false );
+
 
 	scanf("%d",&t);	
 	FOR( i , 0 , t ){
 		scanf("%d",&n);	
 
 		suma = 0 ;
+		minx = 10000;
 
 		FOR( i , 0 , n){
 			scanf("%d",&tab[ i ]);	
 			suma +=  tab[ i ];
-
 		}
 
 		szukana = suma/2;
 
 		int* plecak = new int[ szukana +1];
-		int * temp = new int[ szukana+1 ];
+		FOR( i , 0 , szukana+1) plecak [ i ] = 0 ;
+		sort( tab.begin(),tab.begin()+n	);
 
 		for( int k = 0 ; k < n ; k++ ){
 			int i = tab[ k ];
-			if( i > szukana and k != 0 ) continue;
-			memcpy( temp, plecak, (i+1)*sizeof(int));
-			// int pos = (k == 0 ? 0 : i ); \/
-			FOR ( j , i , szukana+1 ){
-				if( k == 0 ) plecak[ j ] = temp[ j ] = 0;				
-				temp [ j ] = max( i + plecak[ j - i ], plecak[ j ]);
-				
+		
+			minx = k < n-1 ? tab[ k+1 ] : tab[ k ];
+			plecak[ szukana ] =  max( i + plecak[ szukana - i ], plecak [ szukana ] );
+			for( int j = szukana - minx ; j >= i ; --j ){
+				plecak [ j ] = max( i + plecak[ j - i ], plecak[ j ]);
 			}
-			delete[] plecak;
-			plecak = temp;
-			temp = new int[szukana+1];
 		}
 
 		printf("%d %d \n", abs( suma - 2 * plecak[ szukana ] ) , suma);

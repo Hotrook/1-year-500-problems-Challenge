@@ -54,3 +54,9 @@ I've done that:
     Kruskal.
 27) http://pl.spoj.com/problems/SPEEDM/
     Dynamic programming. Backpack problem.
+28) http://pl.spoj.com/problems/XIWTPZE/
+    Steinhaus problem of fault coin
+29) http://pl.spoj.com/problems/ETI07E2/
+    Just thinking. Easy and funny.
+30) http://pl.spoj.com/problems/FASTMAX/
+    Range tree;

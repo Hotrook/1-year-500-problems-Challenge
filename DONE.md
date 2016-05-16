@@ -60,3 +60,5 @@ I've done that:
     Just thinking. Easy and funny.
 30) http://pl.spoj.com/problems/FASTMAX/
     Range tree;
+31) http://pl.spoj.com/problems/MACIERZE/
+    Dynamic programming. Matrix. 

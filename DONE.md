@@ -62,3 +62,5 @@ I've done that:
     Range tree;
 31) http://pl.spoj.com/problems/MACIERZE/
     Dynamic programming. Matrix. 
+32) http://pl.spoj.com/problems/PRACA/
+    I have tried Range tree, but it was pointless. It is much more basic.

@@ -11,6 +11,37 @@
 
 using namespace std;
 
+inline void readINT(int *n) //ujemne i dodatnie
+{
+    register char c = 0, 
+  znak_liczby=1;  //1 - liczba dodatnia, -1 - liczba ujemna
+    while (c < 33) c=getc_unlocked(stdin);
+ 
+    if(c==45) {znak_liczby=-1;  c=getc_unlocked(stdin);}//jesli napotkamy minus
+    (*n) = 0;
+ 
+  while (c>32) {(*n)=(*n)*10 + c-48; c=getc_unlocked(stdin);} 
+ 
+    (*n)*=znak_liczby;
+} 
+
+inline void putUI(unsigned int n) {
+ 
+     if(n==0) //ten przypadek rozpatrujemy oddzielnie
+     {
+       putc_unlocked(48,stdout); //wypisz 0
+       return; //zakończ wypisywanie
+     }
+ 
+   char tab[12];//tablica będzie przechowywać cyfry
+     int p = 0;
+     while(n != 0) { //wyłuskanie kolejnych cyfr z liczby n
+        tab[p++] = (n % 10) + 48;
+         n /= 10;
+     }
+     while(p--) 
+         putc_unlocked(tab[p], stdout); //wypisanie liczby
+}
 
 int main(){
 
@@ -19,41 +50,37 @@ int main(){
 	int t;
 	int n;
 	int m;
-	int a;
+	int a;q
 	int suma ;
-	int minx;
 	int szukana ;  
 
-	ios_base::sync_with_stdio( false );
 
-
-	scanf("%d",&t);	
+	readINT(&t);
 	FOR( i , 0 , t ){
-		scanf("%d",&n);	
-
+		readINT(&n);
 		suma = 0 ;
-		minx = 10000;
 
 		FOR( i , 0 , n){
-			scanf("%d",&tab[ i ]);	
+			readINT(&tab[i]);
 			suma +=  tab[ i ];
+
 		}
 
 		szukana = suma/2;
 
 		int* plecak = new int[ szukana +1];
+		FOR( i, 0 , szukana + 1 ) plecak[ i ] = 0 ;
 
 		for( int k = 0 ; k < n ; k++ ){
 			int i = tab[ k ];
-		
-			minx = k < n-1 ? tab[ k+1 ] : tab[ k ]
-			plecak[ szukana ] =  max( i + plecak[ szukana - i ], plecak [ szukana ] );
-			for( int j = szukana - minx ; j >= i ; --j ){
+			for( int j = szukana ; j >= i ; --j ){
 				plecak [ j ] = max( i + plecak[ j - i ], plecak[ j ]);
 			}
 		}
-
-		printf("%d %d \n", abs( suma - 2 * plecak[ szukana ] ) , suma);
+		putUI(abs( suma - 2 * plecak[ szukana ] ));
+		putc_unlocked(32,stdout);
+		putUI(suma);
+		putc_unlocked(10,stdout);
 
 	}
 

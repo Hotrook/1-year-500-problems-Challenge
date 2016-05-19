@@ -64,3 +64,5 @@ I've done that:
     Dynamic programming. Matrix. 
 32) http://pl.spoj.com/problems/PRACA/
     I have tried Range tree, but it was pointless. It is much more basic.
+33) http://pl.spoj.com/problems/TAXIMAN/
+    The most annoying exercise in the world! It taught me the control of my variables.

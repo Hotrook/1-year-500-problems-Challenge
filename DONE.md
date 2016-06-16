@@ -66,3 +66,5 @@ I've done that:
     I have tried Range tree, but it was pointless. It is much more basic.
 33) http://pl.spoj.com/problems/TAXIMAN/
     The most annoying exercise in the world! It taught me the control of my variables.
+34) http://pl.spoj.com/problems/NAMES/
+    Easy one.

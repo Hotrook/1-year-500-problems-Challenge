@@ -68,3 +68,5 @@ I've done that:
     The most annoying exercise in the world! It taught me the control of my variables.
 34) http://pl.spoj.com/problems/NAMES/
     Easy one.
+35) http://pl.spoj.com/problems/AL_01_02/
+    Easy one.

@@ -70,3 +70,5 @@ I've done that:
     Easy one.
 35) http://pl.spoj.com/problems/AL_01_02/
     Easy one.
+36) http://pl.spoj.com/problems/OIG1_DIA/
+    Hard stuff. Implementing BigNum is not that easy.

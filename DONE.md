@@ -74,3 +74,5 @@ I've done that:
     Hard stuff. Implementing BigNum is not that easy.
 37) http://pl.spoj.com/problems/INVER/
     Merge sort. 
+38) http://pl.spoj.com/problems/FIBONUMS/
+    Fast multiplication matrix. Fibonacci numbers.

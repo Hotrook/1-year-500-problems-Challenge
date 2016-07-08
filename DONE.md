@@ -72,3 +72,5 @@ I've done that:
     Easy one.
 36) http://pl.spoj.com/problems/OIG1_DIA/
     Hard stuff. Implementing BigNum is not that easy.
+37) http://pl.spoj.com/problems/INVER/
+    Merge sort. 

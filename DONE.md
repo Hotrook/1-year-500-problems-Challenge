@@ -78,3 +78,5 @@ I've done that:
     Fast multiplication matrix. Fibonacci numbers.
 39) http://pl.spoj.com/problems/OIG1_BIT/
     Dijsktra, but ugly. Should be done better.
+40) http://pl.spoj.com/problems/BIPART/
+    BFS, easy. Coloring graph.

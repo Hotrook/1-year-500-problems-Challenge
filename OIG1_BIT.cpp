@@ -6,6 +6,7 @@
 #include <queue>
 #include <string>
 #include <algorithm>
+#include <sys/time.h>
 
 #define FOR(i,a,b) for(long long i = a ; i < b ; ++i )
 #define PB push_back
@@ -32,7 +33,7 @@ public:
     }
 };
 
-int* dijkstra( vector< vector<element> >  edges, int start ){
+int* dijkstra( vector< vector<element> >&  edges, int start ){
 	int size = edges.size()-1, res;
 	int * dis = new int [ size+1 ];
 	int * odw = new int [ size+1 ];
@@ -74,7 +75,7 @@ int* dijkstra( vector< vector<element> >  edges, int start ){
 	return dis;
 }
 
-void actualize(vector<vector<element> > edges,int * tab , int start, element x, int size, int min ){
+void actualize(vector<vector<element> >& edges,int * tab , int start, element x, int size, int min ){
 
 	queue<int> que; 
 	que.push( start );
@@ -91,13 +92,9 @@ void actualize(vector<vector<element> > edges,int * tab , int start, element x, 
 	} 
 }
 
-int check(vector< vector<element> >  edges, element x ){
+int check(vector< vector<element> >&  edges, element x ){
 	bool result = false;
 	int size = edges.size()-1, res;
-	vert ver;
-	element temp;
-
-	priority_queue< vert , vector<vert> , Compare> que; 
 
 	if( fromStart[ x.stop] < fromStart[ x.start ] ) swap( x.start, x.stop );
 	if( fromStart[x.start] + x.length + fromEnd[ x.stop ] < fromStart[ size ] and fromStart[x.start] != - 1 and fromStart[ x.stop ] != -1  ){
@@ -163,25 +160,24 @@ int main(){
 		x.length = length;
 
 		
-		edges[ a ].PB ( x );
-
-		swap( x.start, x.stop );
-
-		edges[ b ].PB( x );
-
-		swap( x.start, x.stop );
 
 		if( check(edges, x) ){
+			edges[ a ].PB ( x );
+
+			swap( x.start, x.stop );
+
+			edges[ b ].PB( x );
+
+			swap( x.start, x.stop );
 			printf("1\n");	
 		}
 		else {
-			edges[ a ].erase( edges[ a ].end()-1 ); 
-			edges[ b ].erase( edges[ b ].end()-1 ); 
 			printf("0\n");	
 		}
 
 
 	}
+
 
 
 	return 0 ;

@@ -77,7 +77,7 @@ int main(){
 		}
 
 		if( n == 1 and m == 0 ) cout << "NIE\n";
-		else if( bfsCheck( edges, n, 2*t ) ) cout << "TAK\n";
+		else if( bfsCheck( edges, n, 2*i ) ) cout << "TAK\n";
 		else cout << "NIE\n";
 
 	}

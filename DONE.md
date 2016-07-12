@@ -84,3 +84,5 @@ I've done that:
     Bridges in graph.
 42) http://main.edu.pl/pl/user.phtml?op=zgl&m=info&id=757401
     Easy. Huffman coding.
+43) http://pl.spoj.com/submit/MWP2_1E/id=17268671
+    Easy.

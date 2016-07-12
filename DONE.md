@@ -80,3 +80,7 @@ I've done that:
     Dijsktra, but ugly. Should be done better.
 40) http://pl.spoj.com/problems/BIPART/
     BFS, easy. Coloring graph.
+41) http://pl.spoj.com/problems/KASZTANY/
+    Bridges in graph.
+42) http://main.edu.pl/pl/user.phtml?op=zgl&m=info&id=757401
+    Easy. Huffman coding.

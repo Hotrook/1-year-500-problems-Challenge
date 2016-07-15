@@ -86,3 +86,5 @@ I've done that:
     Easy. Huffman coding.
 43) http://pl.spoj.com/submit/MWP2_1E/id=17268671
     Easy.
+44) http://pl.spoj.com/problems/KOD_PER/
+    Easy.

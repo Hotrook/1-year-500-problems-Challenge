@@ -88,3 +88,5 @@ I've done that:
     Easy.
 44) http://pl.spoj.com/problems/KOD_PER/
     Easy.
+45) http://pl.spoj.com/problems/MWP2_2F/
+    Union and Find. Easy.

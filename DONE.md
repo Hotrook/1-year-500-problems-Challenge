@@ -90,3 +90,5 @@ I've done that:
     Easy.
 45) http://pl.spoj.com/problems/MWP2_2F/
     Union and Find. Easy.
+46) http://pl.spoj.com/problems/LEMONS/
+    Graph theory. Minimum spinnig tree. Easy. 

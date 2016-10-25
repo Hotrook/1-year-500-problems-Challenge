@@ -92,3 +92,5 @@ I've done that:
     Union and Find. Easy.
 46) http://pl.spoj.com/problems/LEMONS/
     Graph theory. Minimum spinnig tree. Easy. 
+47) http://main.edu.pl/pl/archive/oig/1/sor
+    Easy. Just to get back into coding.

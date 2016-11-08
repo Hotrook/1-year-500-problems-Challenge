@@ -94,3 +94,9 @@ I've done that:
     Graph theory. Minimum spinnig tree. Easy. 
 47) http://main.edu.pl/pl/archive/oig/1/sor
     Easy. Just to get back into coding.
+48) https://www.hackerrank.com/contests/w25/challenges/baby-step-giant-step
+    Very easy. Logic problem.
+49) https://www.hackerrank.com/contests/ncr-codesprint/challenges/game-of-numbers
+    Very easy. Logic problem.
+50) https://www.hackerrank.com/challenges/find-the-median?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign
+    Easy. Finding kth biggest number. 

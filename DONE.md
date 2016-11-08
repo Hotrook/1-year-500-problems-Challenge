@@ -100,3 +100,5 @@ I've done that:
     Very easy. Logic problem.
 50) https://www.hackerrank.com/challenges/find-the-median?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign
     Easy. Finding kth biggest number. 
+51) https://www.hackerrank.com/contests/projecteuler/challenges/euler001
+    Not that easy as I thought, but still... Quite interesting.

@@ -25,9 +25,6 @@ int partition( VI & vec , int l , int r ){
 }
 
 int findTheMedian( VI & vec , int pos , int l , int r ){
-	cout << l << " " << r << endl;
-	cout << " " << pos << endl;
-	getchar();
 	int part = partition ( vec, l, r );
 	if( part == pos ) return vec[ part ];
 	else if( pos > part ) return findTheMedian( vec, pos , part+1, r);
@@ -46,7 +43,6 @@ int main() {
     FOR( i , 0 , n )
     cin >> arr[ i ];
 
-    cout << ( n-1 ) /2 << endl;
     cout << findTheMedian( arr, (n-1)/2 , 0, n-1 ) << endl;
     return 0;
 }

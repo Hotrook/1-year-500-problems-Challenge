@@ -104,3 +104,5 @@ I've done that:
     Not that easy as I thought, but still... Quite interesting.
 52) https://www.hackerrank.com/challenges/dijkstrashortreach
     Dijkstra algorithm. Knowing it, easy.
+53) https://www.hackerrank.com/challenges/missing-numbers/submissions/code/32452062
+    Simple sorting problem.

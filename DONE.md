@@ -106,3 +106,5 @@ I've done that:
     Dijkstra algorithm. Knowing it, easy.
 53) https://www.hackerrank.com/challenges/missing-numbers/submissions/code/32452062
     Simple sorting problem.
+54) https://www.hackerrank.com/challenges/kruskalmstrsub
+    Just training. Took few minutes to code. One step ahead.

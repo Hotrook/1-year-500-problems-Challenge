@@ -108,3 +108,5 @@ I've done that:
     Simple sorting problem.
 54) https://www.hackerrank.com/challenges/kruskalmstrsub
     Just training. Took few minutes to code. One step ahead.
+55) https://www.hackerrank.com/challenges/new-year-chaos
+    Comeback after a long break. 

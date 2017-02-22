@@ -110,3 +110,5 @@ I've done that:
     Just training. Took few minutes to code. One step ahead.
 55) https://www.hackerrank.com/challenges/new-year-chaos
     Comeback after a long break. 
+56) https://www.hackerrank.com/challenges/bonetrousle
+

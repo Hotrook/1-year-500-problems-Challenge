@@ -112,3 +112,6 @@ I've done that:
     Comeback after a long break. 
 56) https://www.hackerrank.com/challenges/bonetrousle
 
+57) https://www.hackerrank.com/challenges/kmp-problem
+    Nice problem based on kmp. 
+    

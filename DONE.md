@@ -114,4 +114,6 @@ I've done that:
 
 57) https://www.hackerrank.com/challenges/kmp-problem
     Nice problem based on kmp. 
+58) https://www.hackerrank.com/challenges/countingsort4
+    Counting Sort.
     

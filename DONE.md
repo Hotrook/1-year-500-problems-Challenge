@@ -118,3 +118,5 @@ I've done that:
     Counting Sort.
 59) http://pl.spoj.com/problems/AL_28_01/
     Easy.
+60) http://pl.spoj.com/problems/ABAKUS/
+    Eesy but fun. Edge cases.

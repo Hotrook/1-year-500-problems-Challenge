@@ -116,4 +116,5 @@ I've done that:
     Nice problem based on kmp. 
 58) https://www.hackerrank.com/challenges/countingsort4
     Counting Sort.
-    
+59) http://pl.spoj.com/problems/AL_28_01/
+    Easy.

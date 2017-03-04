@@ -120,3 +120,7 @@ I've done that:
     Easy.
 60) http://pl.spoj.com/problems/ABAKUS/
     Eesy but fun. Edge cases.
+61) http://pl.spoj.com/problems/FR_04_02/
+    Easy.
+62) http://pl.spoj.com/problems/FR_03_15/
+    Easy.

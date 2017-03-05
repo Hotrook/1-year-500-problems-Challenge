@@ -124,3 +124,5 @@ I've done that:
     Easy.
 62) http://pl.spoj.com/problems/FR_03_15/
     Easy.
+63) https://www.hackerrank.com/challenges/richie-rich
+    Eeasy but fun.

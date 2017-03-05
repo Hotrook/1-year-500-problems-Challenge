@@ -128,3 +128,5 @@ I've done that:
     Eeasy but fun.
 64) http://pl.spoj.com/problems/FR_05_01/
     Easy.
+65) http://pl.spoj.com/problems/FR_03_11/
+    Binary. Systems. Modulo.

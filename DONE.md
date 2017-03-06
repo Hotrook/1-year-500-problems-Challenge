@@ -138,3 +138,5 @@ I've done that:
     LCS.
 69) https://www.hackerrank.com/challenges/bear-and-steady-gene
     Fun.
+70) http://pl.spoj.com/problems/FR_02_01/
+    Precision. Geometry.

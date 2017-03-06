@@ -23,8 +23,9 @@ int main(){
 	int t;
 	int temp;
 
+	ios_base::sync_with_stdio(false);
 
-	string s;
+	
 
 	cin >> t;
 
@@ -38,7 +39,7 @@ int main(){
 		}
 		if( temp == 0 ) cout << "Tak\n" ;
 		else cout << "Nie\n";
-		
+
 	}
 	return 0 ;
 }

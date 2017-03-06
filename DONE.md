@@ -130,3 +130,5 @@ I've done that:
     Easy.
 65) http://pl.spoj.com/problems/FR_03_11/
     Binary. Systems. Modulo.
+66) https://www.hackerrank.com/challenges/sherlock-and-anagrams
+    Easy, but brute force.

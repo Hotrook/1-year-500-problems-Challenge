@@ -136,3 +136,5 @@ I've done that:
     
 68) https://www.hackerrank.com/challenges/common-child
     LCS.
+69) https://www.hackerrank.com/challenges/bear-and-steady-gene
+    Fun.

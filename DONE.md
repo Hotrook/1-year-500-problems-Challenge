@@ -134,3 +134,5 @@ I've done that:
     Easy, but brute force.
 67) http://pl.spoj.com/problems/FR_02_10/
     
+68) https://www.hackerrank.com/challenges/common-child
+    LCS.

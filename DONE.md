@@ -144,3 +144,8 @@ I've done that:
     Irritating.
 72) http://pl.spoj.com/problems/AL_16_02/
     Annoying.
+73) http://pl.spoj.com/problems/FR_02_12/
+    Easy. NWD. NWW.
+74) https://www.hackerrank.com/challenges/fraudulent-activity-notifications
+    Very nice. Multiset. Sorting.
+

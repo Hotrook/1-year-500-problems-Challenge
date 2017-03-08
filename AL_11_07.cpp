@@ -31,14 +31,13 @@ int main(){
 		int it = 0 ;
 
 		while( it < len ){
-			// cout << s[ it+1 ] << s[ it ];
-			cout << it+1 << " " << it << " ";
+			cout << s[ it+1 ] << s[ it ];
 			it += 2;
 
 		}
 
-		if( s.length() % 2 == 1 ){// cout << s[ it ];
-			cout << it << " ";
+		if( s.length() % 2 == 1 ){
+			cout << s[ it ];
 		}
 
 		cout << "\n";

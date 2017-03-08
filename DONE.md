@@ -140,3 +140,7 @@ I've done that:
     Fun.
 70) http://pl.spoj.com/problems/FR_02_01/
     Precision. Geometry.
+71) http://pl.spoj.com/problems/AL_11_07/
+    Irritating.
+72) http://pl.spoj.com/problems/AL_16_02/
+    Annoying.

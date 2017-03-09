@@ -148,4 +148,5 @@ I've done that:
     Easy. NWD. NWW.
 74) https://www.hackerrank.com/challenges/fraudulent-activity-notifications
     Very nice. Multiset. Sorting.
-
+75) https://www.hackerrank.com/challenges/lilys-homework
+    Permutations. Sorting. Nice.

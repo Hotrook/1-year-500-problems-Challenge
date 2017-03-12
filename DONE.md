@@ -150,3 +150,5 @@ I've done that:
     Very nice. Multiset. Sorting.
 75) https://www.hackerrank.com/challenges/lilys-homework
     Permutations. Sorting. Nice.
+76) Deadline24/Edycja 2017/Zadanie[rows]
+    Sorting. nlogn.

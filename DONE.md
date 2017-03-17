@@ -152,3 +152,5 @@ I've done that:
     Permutations. Sorting. Nice.
 76) Deadline24/Edycja 2017/Zadanie[rows]
     Sorting. nlogn.
+77) https://www.hackerrank.com/challenges/torque-and-development
+    Graph theory. SCC. Union and find.

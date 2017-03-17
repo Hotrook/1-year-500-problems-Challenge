@@ -154,3 +154,5 @@ I've done that:
     Sorting. nlogn.
 77) https://www.hackerrank.com/challenges/torque-and-development
     Graph theory. SCC. Union and find.
+78) https://www.hackerrank.com/challenges/journey-to-the-moon
+    Find and union. Graph theory. SCC.

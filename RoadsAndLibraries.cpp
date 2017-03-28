@@ -29,7 +29,7 @@ int main() {
     int b;
     int cm;
     int cd;
-    int sum;
+    long long sum;
     
     
     cin >> q ;

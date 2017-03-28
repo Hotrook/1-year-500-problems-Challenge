@@ -158,3 +158,5 @@ I've done that:
     Find and union. Graph theory. SCC.
 79) https://www.hackerrank.com/challenges/bfsshortreach/submissions/code/41214706
     BFS. Graoh theory.
+80) https://www.hackerrank.com/challenges/largest-permutation
+    Greedy.

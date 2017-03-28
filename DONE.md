@@ -156,3 +156,5 @@ I've done that:
     Graph theory. SCC. Union and find.
 78) https://www.hackerrank.com/challenges/journey-to-the-moon
     Find and union. Graph theory. SCC.
+79) https://www.hackerrank.com/challenges/bfsshortreach/submissions/code/41214706
+    BFS. Graoh theory.

@@ -160,3 +160,7 @@ I've done that:
     BFS. Graoh theory.
 80) https://www.hackerrank.com/challenges/largest-permutation
     Greedy.
+81) https://www.hackerrank.com/challenges/pylons
+    
+82) https://www.hackerrank.com/challenges/two-arrays
+    Greedy.

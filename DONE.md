@@ -166,3 +166,5 @@ I've done that:
     Greedy.
 83) https://www.hackerrank.com/challenges/chief-hopper
     Greedy.
+84) https://www.hackerrank.com/challenges/sherlock-and-minimax?h_r=next-challenge&h_v=zen
+    Greedy.

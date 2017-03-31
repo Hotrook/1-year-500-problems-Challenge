@@ -164,3 +164,5 @@ I've done that:
     
 82) https://www.hackerrank.com/challenges/two-arrays
     Greedy.
+83) https://www.hackerrank.com/challenges/chief-hopper
+    Greedy.

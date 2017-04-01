@@ -168,3 +168,5 @@ I've done that:
     Greedy.
 84) https://www.hackerrank.com/challenges/sherlock-and-minimax?h_r=next-challenge&h_v=zen
     Greedy.
+85) https://www.hackerrank.com/challenges/board-cutting
+    Greedy.

@@ -170,3 +170,5 @@ I've done that:
     Greedy.
 85) https://www.hackerrank.com/challenges/board-cutting
     Greedy.
+86) https://www.hackerrank.com/challenges/reverse-shuffle-merge
+    Greedy. Strings. Really fun.

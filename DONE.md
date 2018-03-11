@@ -176,5 +176,7 @@ I've done that:
 	Functional. Scala. Easy. Fun.
 88) https://www.hackerrank.com/challenges/valid-bst
 	Functional. Scala. Easy. Fun. Bst.
-89) https://szkopul.edu.pl/problemset/problem/Tczhl-p0p4d8QI5QKSByWTME/site/?key=statement
+89) https://www.hackerrank.com/challenges/lambda-march-compute-the-perimeter-of-a-polygon/problem
+	Functional. Scala. Easy. 
+90) https://szkopul.edu.pl/problemset/problem/Tczhl-p0p4d8QI5QKSByWTME/site/?key=statement
     OIG. BigNUm.

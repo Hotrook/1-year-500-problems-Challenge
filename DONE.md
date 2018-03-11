@@ -173,6 +173,8 @@ I've done that:
 86) https://www.hackerrank.com/challenges/reverse-shuffle-merge
     Greedy. Strings. Really fun.
 87) https://www.hackerrank.com/challenges/lambda-march-compute-the-area-of-a-polygon
-		Functional. Scala. Easy. Fun.
+	Functional. Scala. Easy. Fun.
 88) https://www.hackerrank.com/challenges/valid-bst
-		Functional. Scala. Easy. Fun. Bst.
+	Functional. Scala. Easy. Fun. Bst.
+89) https://szkopul.edu.pl/problemset/problem/Tczhl-p0p4d8QI5QKSByWTME/site/?key=statement
+    OIG. BigNUm.
